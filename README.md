@@ -1,5 +1,9 @@
 ### Hi there. My name is Kristina 👋
 ## I learn Java [Job4j](https://job4j.ru/) :computer:
+## 📌 My Projects
+- [TODO List](https://github.com/Kemochka/job4j_todo)  
+- [Social Media API](https://github.com/Kemochka/job4j_social_media_api)  
+- [Car Sales Website](https://github.com/Kemochka/job4j_cars) 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kemochka&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 #### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kemochka&show_icons=true&theme=THEME_NAME)
 ## ![Image alt](https://img.shields.io/badge/Java-%3E%3D8-orange?logo=Java)
